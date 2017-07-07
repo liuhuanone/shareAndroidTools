@@ -5,18 +5,6 @@
 # Bookmarks
 
 
-
-
-
-## 书签栏
-
-
-
-
-## 收藏栏
-
-
-
 ### 工具
 
 
@@ -112,14 +100,13 @@
                         </dt><dt>[性感美女写真 | m.xxxiao.com 美女图片 宅男女神 养眼套图](http://m.xxxiao.com/)
                         </dt><dt>[妹子图 - 每日分享高清美女图片](http://www.mmjpg.com/)
                         </dt><dt>[美女图片集](http://girl-atlas.net/)
-                    </dt></dl>
+                    </dt>
 
-</dt><dt>
-
-### Android
-
+## Android
 [震惊！这么多的安卓开发Tips](https://github.com/cctanfujun/android-tips-tricks-cn)
-                        </dt><dt>[framework层源码解析，不定时更新哈](https://github.com/yipianfengye/androidSource)
+                        <dt>[最流行的android组件大全|鸟窝](http://colobu.com/2014/08/15/android-components-collection/)
+                        </dt>
+                        <dt>[framework层源码解析，不定时更新哈](https://github.com/yipianfengye/androidSource)
                         </dt><dt>[android blur高斯模糊合集](https://github.com/search?q=android+blur&amp;type=Repositories&amp;utf8=%E2%9C%93)
                         </dt><dt>[自己总结的Android开源项目及库](https://github.com/HotBitmapGG/TimLiu-Android#%E8%BF%9B%E5%BA%A6%E6%9D%A1)
                         </dt><dt>[gitHub中README文件语法解读](https://github.com/HotBitmapGG/README#%E6%A8%AA%E7%BA%BF)
