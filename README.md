@@ -2,22 +2,19 @@
 ### 一些android常用的一些工具和资料。
 
 ### 工具
-<dt>
 
 ### webtools
 
-            <dt>[web测试服务器wiremock](http://wiremock.org/docs/getting-started/)
+<dt>[web测试服务器wiremock](http://wiremock.org/docs/getting-started/)
                         </dt><dt>[接口测试服务器jmeter](https://jmeter.apache.org/)
                         </dt> 
-</dt>
-<dt>
+
 ### 程序员常用工具
 
-     <dt>[window资源管理器标签工具Clover](http://cn.ejie.me/)
+<dt>[window资源管理器标签工具Clover](http://cn.ejie.me/)
                         </dt><dt>[window本地快速搜索工具Everything](http://www.voidtools.com/)
                         </dt>
-</dt>
-<dt>   
+                        
 ### 色彩
 
 [Color Hunt](http://www.colorhunt.co/)
@@ -113,7 +110,7 @@
 
 ## Android
 [震惊！这么多的安卓开发Tips](https://github.com/cctanfujun/android-tips-tricks-cn)
-                        <dt>[最流行的android组件大全|鸟窝](http://colobu.com/2014/08/15/android-components-collection/)
+                        <dt>[最流行的android组件大全|鸟窝](http://colobu.com/2014/08/15/android-components-collection/)
                         </dt>
                         <dt>[framework层源码解析，不定时更新哈](https://github.com/yipianfengye/androidSource)
                         </dt><dt>[android blur高斯模糊合集](https://github.com/search?q=android+blur&amp;type=Repositories&amp;utf8=%E2%9C%93)
