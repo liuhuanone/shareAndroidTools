@@ -14,7 +14,9 @@
 [window资源管理器标签工具Clover](http://cn.ejie.me/)
                         </dt><dt>[window本地快速搜索工具Everything](http://www.voidtools.com/)
                         </dt>
-                        
+### 内存检测
+[内存泄漏总结](https://yq.aliyun.com/articles/3009)<dt>
+[内存Android内存泄漏检测工具大全](https://blog.csdn.net/superloveboy/article/details/78536750) </dt>             
 ### 色彩
 
 [Color Hunt](http://www.colorhunt.co/)
